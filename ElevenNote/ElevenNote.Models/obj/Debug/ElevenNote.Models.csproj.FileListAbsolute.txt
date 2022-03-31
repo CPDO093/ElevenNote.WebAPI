@@ -1,0 +1,16 @@
+D:\udemy code\ElevenFiftyProjects\BlueBadge\Eleven_Note_WebAPI\ElevenNote\ElevenNote.Models\bin\Debug\ElevenNote.Models.dll.config
+D:\udemy code\ElevenFiftyProjects\BlueBadge\Eleven_Note_WebAPI\ElevenNote\ElevenNote.Models\bin\Debug\ElevenNote.Models.dll
+D:\udemy code\ElevenFiftyProjects\BlueBadge\Eleven_Note_WebAPI\ElevenNote\ElevenNote.Models\bin\Debug\ElevenNote.Models.pdb
+D:\udemy code\ElevenFiftyProjects\BlueBadge\Eleven_Note_WebAPI\ElevenNote\ElevenNote.Models\bin\Debug\EntityFramework.dll
+D:\udemy code\ElevenFiftyProjects\BlueBadge\Eleven_Note_WebAPI\ElevenNote\ElevenNote.Models\bin\Debug\EntityFramework.SqlServer.dll
+D:\udemy code\ElevenFiftyProjects\BlueBadge\Eleven_Note_WebAPI\ElevenNote\ElevenNote.Models\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\udemy code\ElevenFiftyProjects\BlueBadge\Eleven_Note_WebAPI\ElevenNote\ElevenNote.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\udemy code\ElevenFiftyProjects\BlueBadge\Eleven_Note_WebAPI\ElevenNote\ElevenNote.Models\bin\Debug\EntityFramework.xml
+D:\udemy code\ElevenFiftyProjects\BlueBadge\Eleven_Note_WebAPI\ElevenNote\ElevenNote.Models\bin\Debug\EntityFramework.SqlServer.xml
+D:\udemy code\ElevenFiftyProjects\BlueBadge\Eleven_Note_WebAPI\ElevenNote\ElevenNote.Models\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\udemy code\ElevenFiftyProjects\BlueBadge\Eleven_Note_WebAPI\ElevenNote\ElevenNote.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\udemy code\ElevenFiftyProjects\BlueBadge\Eleven_Note_WebAPI\ElevenNote\ElevenNote.Models\obj\Debug\ElevenNote.Models.csproj.AssemblyReference.cache
+D:\udemy code\ElevenFiftyProjects\BlueBadge\Eleven_Note_WebAPI\ElevenNote\ElevenNote.Models\obj\Debug\ElevenNote.Models.csproj.CoreCompileInputs.cache
+D:\udemy code\ElevenFiftyProjects\BlueBadge\Eleven_Note_WebAPI\ElevenNote\ElevenNote.Models\obj\Debug\ElevenNote.Models.csproj.CopyComplete
+D:\udemy code\ElevenFiftyProjects\BlueBadge\Eleven_Note_WebAPI\ElevenNote\ElevenNote.Models\obj\Debug\ElevenNote.Models.dll
+D:\udemy code\ElevenFiftyProjects\BlueBadge\Eleven_Note_WebAPI\ElevenNote\ElevenNote.Models\obj\Debug\ElevenNote.Models.pdb

@@ -1,0 +1,16 @@
+D:\udemy code\ElevenFiftyProjects\BlueBadge\Eleven_Note_WebAPI\ElevenNote\ElevenNote.Services\bin\Debug\ElevenNote.Services.dll.config
+D:\udemy code\ElevenFiftyProjects\BlueBadge\Eleven_Note_WebAPI\ElevenNote\ElevenNote.Services\bin\Debug\ElevenNote.Services.dll
+D:\udemy code\ElevenFiftyProjects\BlueBadge\Eleven_Note_WebAPI\ElevenNote\ElevenNote.Services\bin\Debug\ElevenNote.Services.pdb
+D:\udemy code\ElevenFiftyProjects\BlueBadge\Eleven_Note_WebAPI\ElevenNote\ElevenNote.Services\bin\Debug\EntityFramework.dll
+D:\udemy code\ElevenFiftyProjects\BlueBadge\Eleven_Note_WebAPI\ElevenNote\ElevenNote.Services\bin\Debug\EntityFramework.SqlServer.dll
+D:\udemy code\ElevenFiftyProjects\BlueBadge\Eleven_Note_WebAPI\ElevenNote\ElevenNote.Services\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\udemy code\ElevenFiftyProjects\BlueBadge\Eleven_Note_WebAPI\ElevenNote\ElevenNote.Services\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\udemy code\ElevenFiftyProjects\BlueBadge\Eleven_Note_WebAPI\ElevenNote\ElevenNote.Services\bin\Debug\EntityFramework.xml
+D:\udemy code\ElevenFiftyProjects\BlueBadge\Eleven_Note_WebAPI\ElevenNote\ElevenNote.Services\bin\Debug\EntityFramework.SqlServer.xml
+D:\udemy code\ElevenFiftyProjects\BlueBadge\Eleven_Note_WebAPI\ElevenNote\ElevenNote.Services\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\udemy code\ElevenFiftyProjects\BlueBadge\Eleven_Note_WebAPI\ElevenNote\ElevenNote.Services\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\udemy code\ElevenFiftyProjects\BlueBadge\Eleven_Note_WebAPI\ElevenNote\ElevenNote.Services\obj\Debug\ElevenNote.Services.csproj.AssemblyReference.cache
+D:\udemy code\ElevenFiftyProjects\BlueBadge\Eleven_Note_WebAPI\ElevenNote\ElevenNote.Services\obj\Debug\ElevenNote.Services.csproj.CoreCompileInputs.cache
+D:\udemy code\ElevenFiftyProjects\BlueBadge\Eleven_Note_WebAPI\ElevenNote\ElevenNote.Services\obj\Debug\ElevenNote.Services.csproj.CopyComplete
+D:\udemy code\ElevenFiftyProjects\BlueBadge\Eleven_Note_WebAPI\ElevenNote\ElevenNote.Services\obj\Debug\ElevenNote.Services.dll
+D:\udemy code\ElevenFiftyProjects\BlueBadge\Eleven_Note_WebAPI\ElevenNote\ElevenNote.Services\obj\Debug\ElevenNote.Services.pdb

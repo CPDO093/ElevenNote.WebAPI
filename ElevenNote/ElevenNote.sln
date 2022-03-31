@@ -5,6 +5,12 @@ VisualStudioVersion = 17.1.32210.238
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElevenNote.WebAPI", "ElevenNote.WebAPI\ElevenNote.WebAPI.csproj", "{7F44BAFC-703C-4437-A995-3E3E035163BA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElevenNote.Data", "ElevenNote.Data\ElevenNote.Data.csproj", "{4BECEF3D-4F93-47C0-8AA3-DCAAA7E54F02}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElevenNote.Models", "ElevenNote.Models\ElevenNote.Models.csproj", "{96849257-5B4A-4428-B538-2DDF6DE2B134}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElevenNote.Services", "ElevenNote.Services\ElevenNote.Services.csproj", "{9C2595EE-85AE-4D87-98C7-BCD90F8C8CE4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +21,18 @@ Global
 		{7F44BAFC-703C-4437-A995-3E3E035163BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7F44BAFC-703C-4437-A995-3E3E035163BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7F44BAFC-703C-4437-A995-3E3E035163BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4BECEF3D-4F93-47C0-8AA3-DCAAA7E54F02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BECEF3D-4F93-47C0-8AA3-DCAAA7E54F02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BECEF3D-4F93-47C0-8AA3-DCAAA7E54F02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BECEF3D-4F93-47C0-8AA3-DCAAA7E54F02}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96849257-5B4A-4428-B538-2DDF6DE2B134}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96849257-5B4A-4428-B538-2DDF6DE2B134}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96849257-5B4A-4428-B538-2DDF6DE2B134}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96849257-5B4A-4428-B538-2DDF6DE2B134}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C2595EE-85AE-4D87-98C7-BCD90F8C8CE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C2595EE-85AE-4D87-98C7-BCD90F8C8CE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C2595EE-85AE-4D87-98C7-BCD90F8C8CE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C2595EE-85AE-4D87-98C7-BCD90F8C8CE4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
